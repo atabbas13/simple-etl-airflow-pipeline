@@ -1,1 +1,4 @@
-# Software required to run this program
+apache-airflow==2.7.2
+pandas
+psycopg2-binary
+requests
